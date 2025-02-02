@@ -1,4 +1,4 @@
-let images =["./img/ga.jpg", "./img/co.jpg"]
+let images =["./ga.jpg", "./co.jpg"]
 
 let container = document.getElementById('imageContainer');
 
